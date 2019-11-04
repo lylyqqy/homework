@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\计算器\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\计算器\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+C:\Users\Lenovo\source\repos\计算器\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\计算器\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\计算器\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Lenovo\source\repos\计算器\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Lenovo\source\repos\计算器\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Lenovo\source\repos\计算器\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "仿IOS 12测距仪", "仿IOS 12测距仪\仿IOS 12测距仪.csproj", "{5F5DE26B-42AB-40EC-9908-C1C3F8E6F52E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F5DE26B-42AB-40EC-9908-C1C3F8E6F52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5DE26B-42AB-40EC-9908-C1C3F8E6F52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5DE26B-42AB-40EC-9908-C1C3F8E6F52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5DE26B-42AB-40EC-9908-C1C3F8E6F52E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A441892-ADC9-4B39-8F54-BBA528F45A0C}
+	EndGlobalSection
+EndGlobal

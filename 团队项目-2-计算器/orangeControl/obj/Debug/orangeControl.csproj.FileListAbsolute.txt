@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\计算器\orangeControl\bin\Debug\orangeControl.dll
+C:\Users\Lenovo\source\repos\计算器\orangeControl\bin\Debug\orangeControl.pdb
+C:\Users\Lenovo\source\repos\计算器\orangeControl\obj\Debug\orangeControl.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\计算器\orangeControl\obj\Debug\orangeControl.UserControl1.resources
+C:\Users\Lenovo\source\repos\计算器\orangeControl\obj\Debug\orangeControl.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\计算器\orangeControl\obj\Debug\orangeControl.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\计算器\orangeControl\obj\Debug\orangeControl.dll
+C:\Users\Lenovo\source\repos\计算器\orangeControl\obj\Debug\orangeControl.pdb

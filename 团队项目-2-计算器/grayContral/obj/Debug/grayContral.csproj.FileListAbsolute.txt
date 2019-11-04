@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\计算器\grayContral\bin\Debug\grayContral.dll
+C:\Users\Lenovo\source\repos\计算器\grayContral\bin\Debug\grayContral.pdb
+C:\Users\Lenovo\source\repos\计算器\grayContral\obj\Debug\grayContral.UserControl1.resources
+C:\Users\Lenovo\source\repos\计算器\grayContral\obj\Debug\grayContral.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\计算器\grayContral\obj\Debug\grayContral.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\计算器\grayContral\obj\Debug\grayContral.dll
+C:\Users\Lenovo\source\repos\计算器\grayContral\obj\Debug\grayContral.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\计算器\whiteControl\bin\Debug\whiteControl.dll
+C:\Users\Lenovo\source\repos\计算器\whiteControl\bin\Debug\whiteControl.pdb
+C:\Users\Lenovo\source\repos\计算器\whiteControl\obj\Debug\whiteControl.UserControl1.resources
+C:\Users\Lenovo\source\repos\计算器\whiteControl\obj\Debug\whiteControl.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\计算器\whiteControl\obj\Debug\whiteControl.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\计算器\whiteControl\obj\Debug\whiteControl.dll
+C:\Users\Lenovo\source\repos\计算器\whiteControl\obj\Debug\whiteControl.pdb

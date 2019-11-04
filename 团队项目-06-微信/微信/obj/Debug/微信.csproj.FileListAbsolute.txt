@@ -1,0 +1,10 @@
+C:\桌面设计\微信\微信\bin\Debug\微信.exe.config
+C:\桌面设计\微信\微信\bin\Debug\微信.exe
+C:\桌面设计\微信\微信\bin\Debug\微信.pdb
+C:\桌面设计\微信\微信\obj\Debug\微信.csprojAssemblyReference.cache
+C:\桌面设计\微信\微信\obj\Debug\微信.微信2019.resources
+C:\桌面设计\微信\微信\obj\Debug\微信.Properties.Resources.resources
+C:\桌面设计\微信\微信\obj\Debug\微信.csproj.GenerateResource.cache
+C:\桌面设计\微信\微信\obj\Debug\微信.csproj.CoreCompileInputs.cache
+C:\桌面设计\微信\微信\obj\Debug\微信.exe
+C:\桌面设计\微信\微信\obj\Debug\微信.pdb

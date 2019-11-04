@@ -1,0 +1,10 @@
+C:\桌面设计\开机单词\开机单词\bin\Debug\开机单词.exe.config
+C:\桌面设计\开机单词\开机单词\bin\Debug\开机单词.exe
+C:\桌面设计\开机单词\开机单词\bin\Debug\开机单词.pdb
+C:\桌面设计\开机单词\开机单词\obj\Debug\开机单词.csprojAssemblyReference.cache
+C:\桌面设计\开机单词\开机单词\obj\Debug\开机单词.Properties.Resources.resources
+C:\桌面设计\开机单词\开机单词\obj\Debug\开机单词.csproj.GenerateResource.cache
+C:\桌面设计\开机单词\开机单词\obj\Debug\开机单词.csproj.CoreCompileInputs.cache
+C:\桌面设计\开机单词\开机单词\obj\Debug\开机单词.exe
+C:\桌面设计\开机单词\开机单词\obj\Debug\开机单词.pdb
+C:\桌面设计\开机单词\开机单词\obj\Debug\开机单词.Form1.resources

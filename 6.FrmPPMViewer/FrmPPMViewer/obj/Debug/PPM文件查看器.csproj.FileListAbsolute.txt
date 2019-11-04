@@ -1,0 +1,10 @@
+C:\桌面设计\FrmPPMViewer\FrmPPMViewer\bin\Debug\FrmPPMViewer.exe.config
+C:\桌面设计\FrmPPMViewer\FrmPPMViewer\bin\Debug\FrmPPMViewer.exe
+C:\桌面设计\FrmPPMViewer\FrmPPMViewer\bin\Debug\FrmPPMViewer.pdb
+C:\桌面设计\FrmPPMViewer\FrmPPMViewer\obj\Debug\PPM文件查看器.csprojAssemblyReference.cache
+C:\桌面设计\FrmPPMViewer\FrmPPMViewer\obj\Debug\FrmPPMViewer.FrmPPMViewer.resources
+C:\桌面设计\FrmPPMViewer\FrmPPMViewer\obj\Debug\FrmPPMViewer.Properties.Resources.resources
+C:\桌面设计\FrmPPMViewer\FrmPPMViewer\obj\Debug\PPM文件查看器.csproj.GenerateResource.cache
+C:\桌面设计\FrmPPMViewer\FrmPPMViewer\obj\Debug\PPM文件查看器.csproj.CoreCompileInputs.cache
+C:\桌面设计\FrmPPMViewer\FrmPPMViewer\obj\Debug\FrmPPMViewer.exe
+C:\桌面设计\FrmPPMViewer\FrmPPMViewer\obj\Debug\FrmPPMViewer.pdb

@@ -1,0 +1,20 @@
+C:\Users\Lenovo\source\repos\仿IOS 12测距仪\仿IOS 12测距仪\bin\Debug\仿IOS 12测距仪.exe.config
+C:\Users\Lenovo\source\repos\仿IOS 12测距仪\仿IOS 12测距仪\bin\Debug\仿IOS 12测距仪.exe
+C:\Users\Lenovo\source\repos\仿IOS 12测距仪\仿IOS 12测距仪\bin\Debug\仿IOS 12测距仪.pdb
+C:\Users\Lenovo\source\repos\仿IOS 12测距仪\仿IOS 12测距仪\obj\Debug\仿IOS 12测距仪.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\仿IOS 12测距仪\仿IOS 12测距仪\obj\Debug\仿IOS_12测距仪.FrmDistanceMeasure.resources
+C:\Users\Lenovo\source\repos\仿IOS 12测距仪\仿IOS 12测距仪\obj\Debug\仿IOS_12测距仪.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\仿IOS 12测距仪\仿IOS 12测距仪\obj\Debug\仿IOS 12测距仪.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\仿IOS 12测距仪\仿IOS 12测距仪\obj\Debug\仿IOS 12测距仪.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\仿IOS 12测距仪\仿IOS 12测距仪\obj\Debug\仿IOS 12测距仪.exe
+C:\Users\Lenovo\source\repos\仿IOS 12测距仪\仿IOS 12测距仪\obj\Debug\仿IOS 12测距仪.pdb
+C:\桌面设计\仿IOS 12测距仪\仿IOS 12测距仪\bin\Debug\仿IOS 12测距仪.exe.config
+C:\桌面设计\仿IOS 12测距仪\仿IOS 12测距仪\bin\Debug\仿IOS 12测距仪.exe
+C:\桌面设计\仿IOS 12测距仪\仿IOS 12测距仪\bin\Debug\仿IOS 12测距仪.pdb
+C:\桌面设计\仿IOS 12测距仪\仿IOS 12测距仪\obj\Debug\仿IOS 12测距仪.csprojAssemblyReference.cache
+C:\桌面设计\仿IOS 12测距仪\仿IOS 12测距仪\obj\Debug\仿IOS_12测距仪.FrmDistanceMeasure.resources
+C:\桌面设计\仿IOS 12测距仪\仿IOS 12测距仪\obj\Debug\仿IOS_12测距仪.Properties.Resources.resources
+C:\桌面设计\仿IOS 12测距仪\仿IOS 12测距仪\obj\Debug\仿IOS 12测距仪.csproj.GenerateResource.cache
+C:\桌面设计\仿IOS 12测距仪\仿IOS 12测距仪\obj\Debug\仿IOS 12测距仪.csproj.CoreCompileInputs.cache
+C:\桌面设计\仿IOS 12测距仪\仿IOS 12测距仪\obj\Debug\仿IOS 12测距仪.exe
+C:\桌面设计\仿IOS 12测距仪\仿IOS 12测距仪\obj\Debug\仿IOS 12测距仪.pdb

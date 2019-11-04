@@ -1,0 +1,9 @@
+C:\桌面设计\FrmDistanceMeasure\FrmDistanceMeasure\obj\Debug\FrmDistanceMeasure.FrmDistanceMeasure.resources
+C:\桌面设计\FrmDistanceMeasure\FrmDistanceMeasure\obj\Debug\FrmDistanceMeasure.Properties.Resources.resources
+C:\桌面设计\FrmDistanceMeasure\FrmDistanceMeasure\obj\Debug\FrmDistanceMeasure.csproj.GenerateResource.cache
+C:\桌面设计\FrmDistanceMeasure\FrmDistanceMeasure\obj\Debug\FrmDistanceMeasure.csproj.CoreCompileInputs.cache
+C:\桌面设计\FrmDistanceMeasure\FrmDistanceMeasure\bin\Debug\FrmDistanceMeasure.exe.config
+C:\桌面设计\FrmDistanceMeasure\FrmDistanceMeasure\bin\Debug\FrmDistanceMeasure.exe
+C:\桌面设计\FrmDistanceMeasure\FrmDistanceMeasure\bin\Debug\FrmDistanceMeasure.pdb
+C:\桌面设计\FrmDistanceMeasure\FrmDistanceMeasure\obj\Debug\FrmDistanceMeasure.exe
+C:\桌面设计\FrmDistanceMeasure\FrmDistanceMeasure\obj\Debug\FrmDistanceMeasure.pdb

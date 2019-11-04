@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\仿QQ首页\Weather\bin\Debug\Weather.exe.config
+C:\Users\Lenovo\source\repos\仿QQ首页\Weather\bin\Debug\Weather.exe
+C:\Users\Lenovo\source\repos\仿QQ首页\Weather\bin\Debug\Weather.pdb
+C:\Users\Lenovo\source\repos\仿QQ首页\Weather\obj\Debug\Weather.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\仿QQ首页\Weather\obj\Debug\Weather.Form1.resources
+C:\Users\Lenovo\source\repos\仿QQ首页\Weather\obj\Debug\Weather.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\仿QQ首页\Weather\obj\Debug\Weather.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\仿QQ首页\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\仿QQ首页\Weather\obj\Debug\Weather.exe
+C:\Users\Lenovo\source\repos\仿QQ首页\Weather\obj\Debug\Weather.pdb

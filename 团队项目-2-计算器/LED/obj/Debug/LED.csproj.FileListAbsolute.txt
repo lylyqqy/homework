@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\计算器\LED\bin\Debug\LED.dll
+C:\Users\Lenovo\source\repos\计算器\LED\bin\Debug\LED.pdb
+C:\Users\Lenovo\source\repos\计算器\LED\obj\Debug\LED.UserControl1.resources
+C:\Users\Lenovo\source\repos\计算器\LED\obj\Debug\LED.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\计算器\LED\obj\Debug\LED.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\计算器\LED\obj\Debug\LED.dll
+C:\Users\Lenovo\source\repos\计算器\LED\obj\Debug\LED.pdb
+C:\Users\Lenovo\source\repos\计算器\LED\obj\Debug\LED.csprojAssemblyReference.cache

@@ -1,0 +1,46 @@
+C:\Users\Lenovo\source\repos\计算器\计算器\bin\Debug\计算器.exe.config
+C:\Users\Lenovo\source\repos\计算器\计算器\bin\Debug\计算器.exe
+C:\Users\Lenovo\source\repos\计算器\计算器\bin\Debug\计算器.pdb
+C:\Users\Lenovo\source\repos\计算器\计算器\obj\Debug\计算器.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\计算器\计算器\obj\Debug\计算器.Form1.resources
+C:\Users\Lenovo\source\repos\计算器\计算器\obj\Debug\计算器.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\计算器\计算器\obj\Debug\计算器.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\计算器\计算器\obj\Debug\计算器.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\计算器\计算器\obj\Debug\计算器.exe
+C:\Users\Lenovo\source\repos\计算器\计算器\obj\Debug\计算器.pdb
+C:\Users\Lenovo\source\repos\计算器\计算器\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Lenovo\source\repos\计算器\计算器\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Lenovo\source\repos\计算器\计算器\obj\Debug\计算器.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\计算器\计算器\bin\Debug\WindowsFormsControlLibrary2.dll
+C:\Users\Lenovo\source\repos\计算器\计算器\bin\Debug\WindowsFormsControlLibrary2.pdb
+C:\Users\Lenovo\source\repos\计算器\计算器\bin\Debug\grayContral.dll
+C:\Users\Lenovo\source\repos\计算器\计算器\bin\Debug\grayContral.pdb
+C:\Users\Lenovo\source\repos\计算器\计算器\bin\Debug\whiteControl.dll
+C:\Users\Lenovo\source\repos\计算器\计算器\bin\Debug\whiteControl.pdb
+C:\Users\Lenovo\source\repos\计算器\计算器\bin\Debug\orangeControl.dll
+C:\Users\Lenovo\source\repos\计算器\计算器\bin\Debug\orangeControl.pdb
+C:\Users\Lenovo\source\repos\计算器\计算器\bin\Debug\LED.dll
+C:\Users\Lenovo\source\repos\计算器\计算器\bin\Debug\LED.pdb
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\bin\Debug\计算器.exe.config
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\bin\Debug\计算器.exe
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\bin\Debug\计算器.pdb
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\bin\Debug\grayContral.dll
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\bin\Debug\LED.dll
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\bin\Debug\orangeControl.dll
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\bin\Debug\whiteControl.dll
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\bin\Debug\WindowsFormsControlLibrary2.dll
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\bin\Debug\grayContral.pdb
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\bin\Debug\LED.pdb
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\bin\Debug\orangeControl.pdb
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\bin\Debug\whiteControl.pdb
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\bin\Debug\WindowsFormsControlLibrary2.pdb
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\obj\Debug\计算器.csprojAssemblyReference.cache
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\obj\Debug\计算器.Form1.resources
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\obj\Debug\计算器.Properties.Resources.resources
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\obj\Debug\计算器.csproj.GenerateResource.cache
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\obj\Debug\计算器.csproj.CoreCompileInputs.cache
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\obj\Debug\计算器.csproj.CopyComplete
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\obj\Debug\计算器.exe
+C:\Users\Joannan\Documents\Tencent Files\904934338\FileRecv\计算器\计算器\计算器\obj\Debug\计算器.pdb

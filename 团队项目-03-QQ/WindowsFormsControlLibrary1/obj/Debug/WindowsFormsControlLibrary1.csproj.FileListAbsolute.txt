@@ -1,0 +1,17 @@
+C:\Users\Joannan\source\repos\QQMain\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Joannan\source\repos\QQMain\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Joannan\source\repos\QQMain\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.Properties.Resources.resources
+C:\Users\Joannan\source\repos\QQMain\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+C:\Users\Joannan\source\repos\QQMain\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+C:\Users\Joannan\source\repos\QQMain\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Joannan\source\repos\QQMain\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Joannan\source\repos\QQMain\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+C:\桌面设计\团队项目-03-QQ\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\桌面设计\团队项目-03-QQ\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\桌面设计\团队项目-03-QQ\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojAssemblyReference.cache
+C:\桌面设计\团队项目-03-QQ\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.Properties.Resources.resources
+C:\桌面设计\团队项目-03-QQ\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+C:\桌面设计\团队项目-03-QQ\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+C:\桌面设计\团队项目-03-QQ\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\桌面设计\团队项目-03-QQ\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\桌面设计\团队项目-03-QQ\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
